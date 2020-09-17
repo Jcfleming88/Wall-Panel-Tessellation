@@ -3,6 +3,10 @@ Automated tessellation of panels along a wall surface
 
 ---
 
+![Random Panels](https://user-images.githubusercontent.com/64108488/93528824-d8d8f680-f932-11ea-9605-a5141aa0585e.png)
+
+---
+
 # Description
 Created to test various Revit and Dynamo skills, the script tessellates wall panels along a face and sets 
 peramters for the panel. In this case I created a custom panel to be spread across the wall which the 
